@@ -1,2 +1,5 @@
-# Kernel_Module
-osc_final_exam
+# FINAL EXAM  - Kernel Module
+CS-2119
+Nurassyl Berik
+Zhansaya Kuanshbek
+
